@@ -1,3 +1,3 @@
-## This is a new update for testing Pull Requests
+## This is a new update for Rusha Pull Requests
 
 ## second one
